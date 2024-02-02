@@ -1,0 +1,22 @@
+[
+  {
+    "httpRequest": {
+      "method": "GET",
+      "path": "/api/v1/company/validate",
+      "queryStringParameters": {
+        "organizationNumber": [
+          "559008-9800"
+        ]
+      }
+    },
+    "httpResponse": {
+      "body": {
+        "name": "Ericcson AB",
+        "organizationNumber": "559008-9800",
+        "type": "EKONOMISK",
+        "active": true
+      },
+      "statusCode": 200
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "id-1",
+  "amountApplied": "23",
+  "term": "term-1",
+  "email": "s@gmail.com",
+  "phoneNumber": "01252222",
+  "status": "PROCESSED",
+  "organizationNumber": "organizationNumber-1",
+  "amountOffer": "21",
+  "interest": "3",
+  "date": "2024-01-24T12:08:08.641Z",
+  "userId": "user-1"
+}

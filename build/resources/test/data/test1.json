@@ -1,0 +1,33 @@
+{
+  "amountApplied": {
+    "currency": "SEK",
+    "minorUnits": 2000
+  },
+  "term": "term-1",
+  "email": "s@gmail.com",
+  "phoneNumber": "01252222",
+  "status": "PROCESSED",
+  "organizationNumber": "559008-9800",
+  "amountOffer": "21",
+  "interest": "3",
+  "date": "2024-01-24T12:08:08.641Z",
+  "userId": "user-1"
+}
+
+{
+  "offerAmount": {
+    "currency": "SEK",
+    "amount": 2000000000
+  },
+  "term": "test-term-1",
+  "interest": "0.1",
+  "CurrencyAmount": {
+    "currency": "SEK",
+    "amount": 20000000
+  },
+  "CurrencyAmount": {
+    "currency": "SEK",
+    "amount": 20000000
+  },
+  "offerExpiredAt": "2024-01-24T12:08:08.641Z"
+}
